@@ -9,7 +9,7 @@
 |_|\_\___|_|  |_| |_|\___|_|_|   \__,_|\__\___|_| |_|
 
 ```
-- 我们编译了两个版本
+- We build two Platfrom
 # KPM-Embed for Android Devices
 通过自动获取APatch的Patch脚本并自动修改其函数达到KernelPatch效果
 
