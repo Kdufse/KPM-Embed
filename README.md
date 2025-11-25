@@ -9,10 +9,11 @@
 |_|\_\___|_|  |_| |_|\___|_|_|   \__,_|\__\___|_| |_|
 
 ```
-
+- 我们编译了两个版本
 # KPM-Embed for Android Devices
 通过自动获取APatch的Patch脚本并自动修改其函数达到KernelPatch效果
 
 # KPM-Embed for Windows Devices
-通过预制的KernelPatch.exe达到KernelPatch效果
+通过预制的KernelPatch.exe达到Android KernelPatch效果（为Android生效,非Windows/Linux）
+
 
