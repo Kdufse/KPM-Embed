@@ -15,6 +15,6 @@
 
 # KPM-Embed for Windows Devices
 通过预制的KernelPatch.exe达到Android KernelPatch效果（为Android生效,非Windows/Linux）
-<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Kdufse/KPM-Embed/main/Image/WindowsKernelPatch.png" style="width: 1024px;" alt="Screen"></a>
+<a href="https://github.com/Kdufse/KPM-Embed/blob/main/Image/WindowsKernelPatch.png"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Kdufe/KPM-Embed/main/Image/WindowsKernelPatch.png" style="width: 1024px;" alt="Screen"></a>
 
 
