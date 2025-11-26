@@ -11,6 +11,9 @@
 ```
 - We compiled for two platforms
 # KPM-Embed for Android Devices
+``` Shell
+sh KernelPatch.sh
+```
 通过自动获取APatch的Patch脚本并自动修改其函数达到KernelPatch效果
 
 # KPM-Embed for Windows Devices
