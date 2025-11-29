@@ -21,7 +21,7 @@ sh KernelPatch.sh
 ``` CMD
 start KernelPatch.exe
 ```
-<a href="https://github.com/Kdufse/KPM-Embed/blob/main/Image/WindowsKernelPatch.png"><img src="https://github.com/Kdufse/KPM-Embed/blob/main/Image/WindowsKernelPatch.png" style="width: 1024px;" alt="Screen"></a>
+<a href="https://github.com/Kdufse/KPM-Embed/blob/main/Image/WindowsKernelPatch.png"><img src="https://github.com/Kdufse/KPM-Embed/blob/main/Image/WindowsKernelPatch.png"style="width: 1024px;" alt="Screen"></a>
 
 # 鸣谢
 - [KernelPatch](https://github.com/bmax121/KernelPatch): kptools,kpimg,hkptools-msys2-win
