@@ -1,5 +1,9 @@
 # KPM - Embed
-**Patching and hooking the Linux kernel with only stripped Linux kernel image.**
+**本项目已经进入长期维护状态，仅保留最后一次的更新结果**
+- Q：为什么要进入长期维护状态？
+- A：因为本项目基本大功告成，没有任何扩展性可添加
+
+**仅用剥离的 Linux 内核镜像来打补丁和挂钩 Linux内核**
 - bmax121的:[KernelPatch]([https://github.com/tiann/KernelSU](https://github.com/bmax121/KernelPatch)): kptools,kpimg,hkptools-msys2-win
 ``` shell
  _  __                    _ ____       _       _     
